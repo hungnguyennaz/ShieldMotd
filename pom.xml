@@ -79,13 +79,13 @@
         <dependency>
             <groupId>net.md-5</groupId>
             <artifactId>bungeecord-proxy</artifactId>
-            <version>1.19-R0.1-20220702.004232-16</version>
+            <version>1.19-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-all</artifactId>
-            <version>4.1.79.Final</version>
+            <version>4.1.80.Final</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
